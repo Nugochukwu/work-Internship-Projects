@@ -1,0 +1,15 @@
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\bin\Debug\net7.0\OOP in Csharp.exe
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\bin\Debug\net7.0\OOP in Csharp.deps.json
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\bin\Debug\net7.0\OOP in Csharp.runtimeconfig.json
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\bin\Debug\net7.0\OOP in Csharp.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\bin\Debug\net7.0\OOP in Csharp.pdb
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.csproj.AssemblyReference.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.AssemblyInfoInputs.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.AssemblyInfo.cs
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\refint\OOP in Csharp.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.pdb
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\OOP in Csharp.genruntimeconfig.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP in Csharp\obj\Debug\net7.0\ref\OOP in Csharp.dll
