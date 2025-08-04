@@ -1,0 +1,15 @@
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\bin\Debug\net7.0\OOP_ShoppingCart.exe
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\bin\Debug\net7.0\OOP_ShoppingCart.deps.json
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\bin\Debug\net7.0\OOP_ShoppingCart.runtimeconfig.json
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\bin\Debug\net7.0\OOP_ShoppingCart.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\bin\Debug\net7.0\OOP_ShoppingCart.pdb
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.AssemblyInfo.cs
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\refint\OOP_ShoppingCart.dll
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.pdb
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\OOP_ShoppingCart.genruntimeconfig.cache
+C:\Users\Ugochukwu Nwodo\Documents\My_Actual_Docs\Projects\Programming\C#\C#_Practice\OOP_ShoppingCart\obj\Debug\net7.0\ref\OOP_ShoppingCart.dll
